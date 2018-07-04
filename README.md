@@ -7,6 +7,8 @@ Magento 2 plugin to generate a coupon upon newsletter subscription
 ## Further instructions
 Refresh your caches
 
+Add a simple product to the magento catalog with the sku Simple1, give it qty and assign it to a category, verify that it appears on the frontend
+
 Navigate to MARKETING > Communications > Email Templates
 
 Add New Template
