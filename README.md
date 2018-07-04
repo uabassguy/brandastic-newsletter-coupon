@@ -2,7 +2,7 @@
 Magento 2 plugin to generate a coupon upon newsletter subscription
 
 ## Installation
-`composer require uabassguy/brandastic-newsletter-coupon ~1.0.4`
+`composer require uabassguy/brandastic-newsletter-coupon ~1.0.5`
 
 ## Further instructions
 Refresh your caches
